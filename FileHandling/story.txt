@@ -1,0 +1,6 @@
+Entered lines are :-
+ Hello world
+My name is manmeet
+Nice ti meet u
+BYE
+see you again
